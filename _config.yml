@@ -1,0 +1,7 @@
+title: Interpretable Inductive Biases and Physically Structured Learning
+description: NeurIPS workshop proposal
+markdown: kramdown
+theme: jekyll-theme-slate
+exclude:
+  - Gemfile
+  - Gemfile.lock
