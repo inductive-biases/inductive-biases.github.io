@@ -14,49 +14,53 @@ We also invite researchers to submit extended abstracts for contributed talks an
 ## Confirmed Invited Speakers
 
 
-<div class="row justify-content-around text-center">
-<div class="col-3">
-<img class="img-fluid rounded-circle mb-3" alt="Speaker 1" src="/assets/s1.jpg">
-<p markdown="1">
-Jeannette Bohg  
-Stanford University
+<div class="row justify-content-around text-center px-3 px-lg-5 mx-xl-5">
+<div class="col-7 col-sm-5 col-md-4 col-lg-3 m-lg-1">
+<img class="img-fluid rounded-circle mb-3" alt="Speaker 1" src="assets/s1.jpg">
+<p>
+Jeannette Bohg
+<br>
+<em>Stanford University</em>
 </p>
 </div>
-<div class="col-3">
-<img class="img-fluid rounded-circle mb-3" alt="Speaker 2" src="/assets/s2.jpg">
-<p markdown="1">
-Jessica Hamrick  
-DeepMind
+<div class="col-7 col-sm-5 col-md-4 col-lg-3 m-lg-1">
+<img class="img-fluid rounded-circle mb-3" alt="Speaker 2" src="assets/s2.jpg">
+<p>
+Jessica Hamrick
+<br>
+<em>DeepMind</em>
 </p>
 </div>
-<div class="col-3">
-<img class="img-fluid rounded-circle mb-3" alt="Speaker 3" src="/assets/s3.jpg">
-<p markdown="1">
-Franziska Meier  
-Facebook
+<div class="col-7 col-sm-5 col-md-4 col-lg-3 m-lg-1">
+<img class="img-fluid rounded-circle mb-3" alt="Speaker 3" src="assets/s3.jpg">
+<p>
+Franziska Meier
+<br>
+<em>Facebook</em>
 </p>
 </div>
-</div>
-<div class="row justify-content-around text-center">
-<div class="col-3">
-<img class="img-fluid rounded-circle mb-3" alt="Speaker 4" src="/assets/s4.jpg">
-<p markdown="1">
-Frank Noé  
-FU Berlin
+<div class="col-7 col-sm-5 col-md-4 col-lg-3 m-lg-1">
+<img class="img-fluid rounded-circle mb-3" alt="Speaker 4" src="assets/s4.jpg">
+<p>
+Frank Noé
+<br>
+<em>FU Berlin</em>
 </p>
 </div>
-<div class="col-3">
-<img class="img-fluid rounded-circle mb-3" alt="Speaker 5" src="/assets/s5.jpg">
-<p markdown="1">
-Maziar Raissi  
-University of Colorado, Boulder
+<div class="col-7 col-sm-5 col-md-4 col-lg-3 m-lg-1">
+<img class="img-fluid rounded-circle mb-3" alt="Speaker 5" src="assets/s5.jpg">
+<p>
+Maziar Raissi
+<br>
+<em>University of Colorado, Boulder</em>
 </p>
 </div>
-<div class="col-3">
-<img class="img-fluid rounded-circle mb-3" alt="Speaker 6" src="/assets/s6.jpg">
-<p markdown="1">
-Rose Yu  
-Northeastern University
+<div class="col-7 col-sm-5 col-md-4 col-lg-3 m-lg-1">
+<img class="img-fluid rounded-circle mb-3" alt="Speaker 6" src="assets/s6.jpg">
+<p>
+Rose Yu
+<br>
+<em>Northeastern University</em>
 </p>
 </div>
 </div>
@@ -118,82 +122,90 @@ If the submitted work has previously appeared in a journal or refereed workshop 
 
 ## Organizers
 
-<div class="row justify-content-center text-center">
-<div class="col-3">
-<img class="img-fluid rounded-circle mb-3" alt="Organizer 1" src="/assets/o1.jpg">
-<p markdown="1">
-Michael Lutter  
-*TU Darmstadt*
+<div class="row justify-content-center text-center px-3 px-lg-5 mx-xl-5">
+<div class="col-5 col-sm-4 col-md-3 mx-sm-1 mx-md-0">
+<img class="img-fluid rounded-circle mb-3 px-md-3 px-lg-4" alt="Organizer 1" src="assets/o1.jpg">
+<p>
+Michael Lutter
+<br>
+<em>TU Darmstadt</em>
 </p>
 </div>
-<div class="col-3">
-<img class="img-fluid rounded-circle mb-3" alt="Organizer 2" src="/assets/o2.jpg">
-<p markdown="1">
-Alexander Terenin  
-*Imperial College London*
+<div class="col-5 col-sm-4 col-md-3 mx-sm-1 mx-md-0">
+<img class="img-fluid rounded-circle mb-3 px-md-3 px-lg-4" alt="Organizer 2" src="assets/o2.jpg">
+<p>
+Alexander Terenin
+<br>
+<em>Imperial College London</em>
 </p>
 </div>
-<div class="col-3">
-<img class="img-fluid rounded-circle mb-3" alt="Organizer 3" src="/assets/o3.jpg">
-<p markdown="1">
-Lei Wang  
-*Chinese Academy of Sciences*
+<div class="col-5 col-sm-4 col-md-3 mx-sm-1 mx-md-0">
+<img class="img-fluid rounded-circle mb-3 px-md-3 px-lg-4" alt="Organizer 3" src="assets/o3.jpg">
+<p>
+Lei Wang
+<br>
+<em>Chinese Academy of Sciences</em>
 </p>
 </div>
-<div class="col-3">
-<img class="img-fluid rounded-circle mb-3" alt="Organizer 4" src="/assets/o4.jpg">
-<p markdown="1">
-Shirley Ho  
-*Flatiron Institute*
+<div class="col-5 col-sm-4 col-md-3 mx-sm-1 mx-md-0">
+<img class="img-fluid rounded-circle mb-3 px-md-3 px-lg-4" alt="Organizer 4" src="assets/o4.jpg">
+<p>
+Shirley Ho
+<br>
+<em>Flatiron Institute</em>
 </p>
 </div>
 </div>
 
 ## Advisory Committee
 
-<div class="row justify-content-center text-center">
-<div class="col-3" markdown="1">
-<img class="img-fluid rounded-circle mb-3" alt="Advisory 1" src="/assets/a1.jpg">
-<p markdown="1">
-Anima Anandkumar  
-CalTech/Nvidia
+<div class="row justify-content-center text-center px-xl-5">
+<div class="col-5 col-sm-4 col-md-3 col-lg-2 mx-md-1 mx-lg-0">
+<img class="img-fluid rounded-circle mb-3 px-3 px-lg-0" alt="Advisory 1" src="assets/a1.jpg">
+<p class="">
+Anima Anandkumar
+<br>
+<em>CalTech/Nvidia</em>
 </p>
 </div>
-<div class="col-3" markdown="1">
-<img class="img-fluid rounded-circle mb-3" alt="Advisory 2" src="/assets/a2.jpg">
-<p markdown="1">
-Peter Battaglia  
-DeepMind
+<div class="col-5 col-sm-4 col-md-3 col-lg-2 mx-md-1 mx-lg-0">
+<img class="img-fluid rounded-circle mb-3 px-3 px-lg-0" alt="Advisory 2" src="assets/a2.jpg">
+<p class="">
+Peter Battaglia
+<br>
+<em>DeepMind</em>
 </p>
 </div>
-<div class="col-3" markdown="1">
-<img class="img-fluid rounded-circle mb-3" alt="Advisory 3" src="/assets/a3.jpg">
-<p markdown="1">
-Marc Deisenroth  
-University College London
+<div class="col-5 col-sm-4 col-md-3 col-lg-2 mx-md-1 mx-lg-0">
+<img class="img-fluid rounded-circle mb-3 px-3 px-lg-0" alt="Advisory 3" src="assets/a3.jpg">
+<p class="">
+Marc Deisenroth
+<br>
+<em>University College London</em>
 </p>
 </div>
-</div>
-<div class="row justify-content-center text-center">
-<div class="col-3" markdown="1">
-<img class="img-fluid rounded-circle mb-3" alt="Advisory 4" src="/assets/a4.jpg">
-<p markdown="1">
-Weinan E  
-Princeton University
+<div class="col-5 col-sm-4 col-md-3 col-lg-2 mx-md-1 mx-lg-0">
+<img class="img-fluid rounded-circle mb-3 px-3 px-lg-0" alt="Advisory 4" src="assets/a4.jpg">
+<p class="">
+Weinan E
+<br>
+<em>Princeton</em>
 </p>
 </div>
-<div class="col-3" markdown="1">
-<img class="img-fluid rounded-circle mb-3" alt="Advisory 5" src="/assets/a5.jpg">
-<p markdown="1">
-Pushmeet Kohli  
-DeepMind
+<div class="col-5 col-sm-4 col-md-3 col-lg-2 mx-md-1 mx-lg-0">
+<img class="img-fluid rounded-circle mb-3 px-3 px-lg-0" alt="Advisory 5" src="assets/a5.jpg">
+<p class="">
+Pushmeet Kohli
+<br>
+<em>DeepMind</em>
 </p>
 </div>
-<div class="col-3" markdown="1">
-<img class="img-fluid rounded-circle mb-3" alt="Advisory 6" src="/assets/a6.jpg">
-<p markdown="1">
-Jan Peters  
-TU Darmstadt
+<div class="col-5 col-sm-4 col-md-3 col-lg-2 mx-md-1 mx-lg-0">
+<img class="img-fluid rounded-circle mb-3 px-3 px-lg-0" alt="Advisory 6" src="assets/a6.jpg">
+<p class="">
+Jan Peters
+<br>
+<em>TU Darmstadt</em>
 </p>
 </div>
 </div>
