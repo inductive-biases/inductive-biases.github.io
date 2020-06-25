@@ -8,4 +8,25 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   
     {% seo %}
+
+    <style>
+        #nav-menu-container {
+            z-index: 100;
+            top: 0.5rem;
+            right: 1rem;
+        }
+
+        #nav-trigger-label {
+            cursor: pointer;
+        }
+
+        #nav-trigger:checked ~ #nav-menu {
+            display: block !important;
+        }
+    </style>
+
+    <script src="https://cdn.jsdelivr.net/npm/smooth-scroll@16.1.2/dist/smooth-scroll.polyfills.min.js" integrity="sha256-VFkAd+4WMDXD3TjcA06faRXsvmgN2DL0Sa+iFnLKsRY=" crossorigin="anonymous"></script>
+    <script>
+        window.addEventListener('load', function(e) { new SmoothScroll('a[href*="#"]');});
+    </script>
 </head>
