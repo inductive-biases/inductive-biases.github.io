@@ -35,21 +35,15 @@ menu: ["Workshop","Abstract","Speakers","Key Dates","Call for Papers","Schedule"
 </div>
 </div>
 
-
-<div id="schedule" class="container py-4">
-{% capture schedule %}{% include_relative schedule.md %}{% endcapture %}
-{{ schedule | remove_first: "---" | remove_first: "published: false" | remove_first: "---" | markdownify }}
-</div>
-
-<div class="bg-light">
 <div class="container py-4">
 {% capture organizers %}{% include_relative organizers.html %}{% endcapture %}
 {{ organizers | remove_first: "---" | remove_first: "published: false" | remove_first: "---" }}
 </div>
-</div>
 
 
+<div class="bg-light">
 <div class="container py-4">
 {% capture advisory %}{% include_relative advisory.html %}{% endcapture %}
 {{ advisory | remove_first: "---" | remove_first: "published: false" | remove_first: "---" }}
+</div>
 </div>
