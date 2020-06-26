@@ -6,7 +6,8 @@ menu: ["Workshop","Abstract","Speakers","Key Dates","Call for Papers","Schedule"
 <div id="workshop" class="bg-light">
 <div class="container text-center py-5">
 <img alt="NeurIPS" src='data:image/svg+xml;utf8,{% include_relative neurips.svg %}'>
-<h1 class="py-5">Interpretable Inductive Biases<br>and Physically Structured Learning</h1>
+<h1 class="pt-5">Interpretable Inductive Biases<br>and Physically Structured Learning</h1>
+<h2 class="pb-5">NeurIPS workshop proposal</h2>
 </div>
 </div>
 
