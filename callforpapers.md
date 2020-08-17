@@ -13,7 +13,7 @@ We invite researchers to submit work in any of the following areas.
 - Connections between machine learning, geometry, and mechanics.
 - Applications to physics, robotics, biology, chemistry, and climate science.
 
-A submission should be made in the form of an short 4-page paper using the NeurIPS style.
-Manuscripts should be anonymized in accordance with the same rules as NeurIPS papers.
-References can extend as far beyond the 4-page limit as needed.
+A submission should be made in the form of an short 4-page paper using the [NeurIPS style](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles).
+Manuscripts should be anonymized in accordance with the [same rules as NeurIPS papers](https://neurips.cc/Conferences/2020/CallForPapers).
+References can extend as far beyond the 4-page limit as needed: we encourage use of BibLaTeX, which can be used with the NeurIPS style via the `nonatbib` package option in the latter.
 If the submitted work has previously appeared in a journal or refereed workshop or conference proceedings, including the current NeurIPS proceedings to be published, the workshop submission should extend the previous work.

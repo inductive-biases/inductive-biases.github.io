@@ -8,12 +8,11 @@ published: false
 
 | Date        | Event                                          |
 |-------------|------------------------------------------------|
-| Jun 26 2020 | Workshop Application Deadline                  |
-| Jul 31 2020 | Workshop Notification                          |
-| Aug 07 2020 | Release Call for Papers                        |
-| Aug 31 2020 | Paper Deadline                                 |
-| Sep 21 2020 | Review Deadline                                |
-| Sep 30 2020 | Acceptance Notification                        |
+| Oct 02 2020 | Workshop Paper Submission Deadline             |
+| Oct 23 2020 | Workshop Paper Acceptance Notification         |
+| Nov 14 2020 | Talk Recording Deadline                        |
+| Dec 11 2020 | Workshop Day 1                                 |
+| Dec 12 2020 | Workshop Day 2                                 |
 |-------------|------------------------------------------------|
 
 
