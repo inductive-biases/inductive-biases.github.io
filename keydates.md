@@ -11,8 +11,7 @@ published: false
 | Oct 02 2020 | Workshop Paper Submission Deadline             |
 | Oct 23 2020 | Workshop Paper Acceptance Notification         |
 | Nov 14 2020 | Talk Recording Deadline                        |
-| Dec 11 2020 | Workshop Day 1                                 |
-| Dec 12 2020 | Workshop Day 2                                 |
+| Dec 11/12 2020 | Workshop Day                                  |
 |-------------|------------------------------------------------|
 
 
