@@ -5,7 +5,10 @@ menu: ["Workshop","Abstract","Speakers","Key Dates","Call for Papers","Schedule"
 
 <div id="workshop" class="bg-light">
 <div class="container text-center py-5">
-<img alt="NeurIPS" src='data:image/svg+xml;utf8,{% include_relative neurips.svg %}'>
+{% capture logo %}{% include_relative neurips.svg %}{% endcapture %}
+{% assign left_brace = "{" %}
+{% assign right_brace = "}" %}
+<img alt="NeurIPS" src='data:image/svg+xml,{{ logo | replace: "<","%3C" | replace: ">","%3E" | replace: " ","%20" | replace: "#","%23" | replace: left_brace,"%7B" | replace: right_brace,"%7D" }}'>
 <h1 class="my-5">
 <span class="h3">NeurIPS workshop on</span>
 <br>
