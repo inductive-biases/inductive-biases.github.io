@@ -18,10 +18,14 @@ Interpretable Inductive Biases<br>and Physically Structured Learning
 </div>
 </div>
 
+
+<div class="bg-white">
 <div id="abstract" class="container py-4">
 {% capture abstract %}{% include_relative abstract.md %}{% endcapture %}
 {{ abstract | remove_first: "---" | remove_first: "published: false" | remove_first: "---" | markdownify }}
 </div>
+</div>
+
 
 <div class="bg-light">
 <div id="speakers" class="container py-4">
@@ -31,21 +35,27 @@ Interpretable Inductive Biases<br>and Physically Structured Learning
 </div>
 
 
-<div id="keydates" class="container py-4">
-{% capture keydates %}{% include_relative keydates.md %}{% endcapture %}
-{{ keydates | remove_first: "---" | remove_first: "published: false" | remove_first: "---" | markdownify }}
-</div>
-
-<div class="bg-light">
+<div class="bg-white">
 <div id="callforpapers" class="container py-4">
 {% capture callforpapers %}{% include_relative callforpapers.md %}{% endcapture %}
 {{ callforpapers | remove_first: "---" | remove_first: "published: false" | remove_first: "---" | markdownify }}
 </div>
 </div>
 
+
+<div class="bg-light">
+<div id="keydates" class="container py-4">
+{% capture keydates %}{% include_relative keydates.md %}{% endcapture %}
+{{ keydates | remove_first: "---" | remove_first: "published: false" | remove_first: "---" | markdownify }}
+</div>
+</div>
+
+
+<div class="bg-white">
 <div class="container py-4">
 {% capture organizers %}{% include_relative organizers.html %}{% endcapture %}
 {{ organizers | remove_first: "---" | remove_first: "published: false" | remove_first: "---" }}
+</div>
 </div>
 
 
