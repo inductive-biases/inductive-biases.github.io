@@ -2,7 +2,7 @@
 published: false
 ---
 
-<h2 class="text-center pt-3 pb-5">Key Dates</h2>
+<h1 class="h2 text-center pt-3 pb-5">Key Dates</h1>
 
 <div class="table-sm table-hover d-flex justify-content-center" markdown="1">
 

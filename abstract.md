@@ -2,7 +2,7 @@
 published: false
 ---
 
-<h2 class="text-center pt-3 pb-5">Abstract</h2>
+<h1 class="h2 text-center pt-3 pb-5">Abstract</h1>
 
 <p class="text-justify">
 Over the last decade, deep networks have propelled machine learning to accomplish tasks previously considered far out of reach, human-level performance in image classification and game-playing.
