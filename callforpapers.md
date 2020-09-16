@@ -18,4 +18,4 @@ Manuscripts should be anonymized in accordance with the [same rules as NeurIPS p
 References can extend as far beyond the 4-page limit as needed: we encourage use of BibLaTeX, which can be used with the NeurIPS style via the `nonatbib` package option in the latter.
 If the submitted work has previously appeared in a journal or refereed workshop or conference proceedings, including the current NeurIPS proceedings to be published, the workshop submission should extend the previous work.
 
-<p class="h4 text-center py-3"><a href="https://cmt3.research.microsoft.com/NeurIPSIBW2020">Submit your workshop paper by October 2<sup>nd</sup> via CMT</a></p>
+<p class="h4 text-center py-3"><a href="https://cmt3.research.microsoft.com/NeurIPSIBW2020">Submit your workshop paper by October 9<sup>th</sup> via CMT</a></p>
