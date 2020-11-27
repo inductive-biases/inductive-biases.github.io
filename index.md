@@ -33,17 +33,17 @@ Interpretable Inductive Biases<br>and Physically Structured Learning
 
 
 <div class="bg-white">
-<div id="callforpapers" class="container py-4">
-{% capture callforpapers %}{% include_relative callforpapers.md %}{% endcapture %}
-{{ callforpapers | remove_first: "---" | remove_first: "published: false" | remove_first: "---" | markdownify }}
+<div id="keydates" class="container py-4">
+{% capture keydates %}{% include_relative keydates.md %}{% endcapture %}
+{{ keydates | remove_first: "---" | remove_first: "published: false" | remove_first: "---" | markdownify }}
 </div>
 </div>
 
 
 <div class="bg-light">
-<div id="keydates" class="container py-4">
-{% capture keydates %}{% include_relative keydates.md %}{% endcapture %}
-{{ keydates | remove_first: "---" | remove_first: "published: false" | remove_first: "---" | markdownify }}
+<div id="acceptedpapers" class="container py-4">
+{% capture acceptedpapers %}{% include_relative acceptedpapers.md %}{% endcapture %}
+{{ acceptedpapers | remove_first: "---" | remove_first: "published: false" | remove_first: "---" | markdownify }}
 </div>
 </div>
 
