@@ -14,7 +14,7 @@ published: false
 | Marie Déchelle, Jeremie DONA, Kevin Plessis-Fraissard, Patrick Gallinari, Marina Levy | Bridging Dynamical Models and Deep Networks to Solve Forward and Inverse Problems |
 | Sangwon Kim, Mira Jeong, Byoung Chul Ko | [Is the Surrogate Model Interpretable?](/papers/6.pdf) |
 | Chacha Chen, Guanjie Zheng, Hua Wei, Zhenhui Li | Physics-informed Generative Adversarial Networks for Sequence Generation with Limited Data |
-| Li-Wei Chen, Xiangyu Hu, Berkay Alp Cakal, Nils Thuerey | Deep Learning Surrogates for Computational Fluid Dynamics |
+| Li-Wei Chen, Xiangyu Hu, Berkay Alp Cakal, Nils Thuerey | [Deep Learning Surrogates for Computational Fluid Dynamics](/papers/8.pdf) |
 | Matthew Painter, Adam Prugel-Bennett, Jonathon Hare | [On the Structure of Cyclic Linear Disentangled Representations](/papers/9.pdf) |
 | Rui Wang, Xiaoqian Wang, David I Inouye | [Shapley Explanation Networks](/papers/10.pdf) |
 | Ričards Marcinkevičs, Julia Vogt | [Interpretable Models for Granger Causality Using Self-explaining Neural Networks](/papers/11.pdf) |
