@@ -38,7 +38,7 @@ published: false
 | Thomas Pierrot, Feryal Behbahani, Karim Beguir, Nando de Freitas | [Learning Compositional Neural Programs for Continuous Control](/papers/36.pdf) |
 | Augustin Harter, Andrew Melnik, Gaurav Kumar, Dhruv Agarwal, Helge Ritter | [Solving Physics Puzzles by Reasoning about Paths](/papers/38.pdf) |
 | Luz M. Blaz, Moises Arizpe | [Modelling Advertising Awareness, an Interpretable and Differentiable Approach](/papers/39.pdf) |
-| Hannes Bergkvist, Paul Davidsson | [Constraining neural networks output by an interpolating loss function with region priors](/papers/40.pdf) |
+| Hannes Bergkvist, Peter Exner, Paul Davidsson | [Constraining neural networks output by an interpolating loss function with region priors](/papers/40.pdf) |
 | Ellen Rushe, Brian Mac Namee | [Deep Context-Aware Novelty Detection](/papers/41.pdf) |
 | Ferran Alet, Kenji Kawaguchi, Maria Bauza Villalonga, Nurullah Giray Kuru, Tomas Lozano-Perez, Leslie Kaelbling | Tailoring: encoding inductive biases by optimizing unsupervised objectives at prediction time |
 | Pranay Pasula | [Complex Skill Acquisition through Simple Skill Imitation Learning](/papers/45.pdf) |
