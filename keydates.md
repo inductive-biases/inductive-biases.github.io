@@ -12,7 +12,7 @@ published: false
 | Oct 30 2020    | Workshop Paper Acceptance Notification         |
 | Nov 14 2020    | Talk Recording Deadline                        |
 | Dec 6 2020     | Poster Deadline                                |
-| Dec 11/12 2020 | Workshop Day                                   |
+| Dec 12 2020 | Workshop Day                                   |
 |----------------|------------------------------------------------|
 
 
