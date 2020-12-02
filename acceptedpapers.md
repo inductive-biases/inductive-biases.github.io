@@ -11,16 +11,16 @@ published: false
 | Giorgio Giannone, Asha Anoosheh, Alessio Quaglino, Pierluca D'Oro, Marco Gallieri, Jonathan Masci | [Real-time Classification from Short Event-CameraStreams using Input-filtering Neural ODEs](/papers/2.pdf) |
 | Benjamin K Miller, Mario Geiger, Tess Smidt, Frank Noé | [Relevance of Rotationally Equivariant Convolutions for Predicting Molecular Properties](/papers/3.pdf) |
 | Dharma KC, Chicheng Zhang | [Improving the trustworthiness of image classification models by utilizing bounding-box annotations](/papers/4.pdf) |
-| Marie Déchelle, Jeremie DONA, Kevin Plessis-Fraissard, Patrick Gallinari, Marina Levy | Bridging Dynamical Models and Deep Networks to Solve Forward and Inverse Problems |
+| Marie Déchelle, Jeremie DONA, Kevin Plessis-Fraissard, Patrick Gallinari, Marina Levy | [Bridging Dynamical Models and Deep Networks to Solve Forward and Inverse Problems](/papers/5.pdf) |
 | Sangwon Kim, Mira Jeong, Byoung Chul Ko | [Is the Surrogate Model Interpretable?](/papers/6.pdf) |
-| Chacha Chen, Guanjie Zheng, Hua Wei, Zhenhui Li | Physics-informed Generative Adversarial Networks for Sequence Generation with Limited Data |
+| Chacha Chen, Guanjie Zheng, Hua Wei, Zhenhui Li | [Physics-informed Generative Adversarial Networks for Sequence Generation with Limited Data](/papers/7.pdf) |
 | Li-Wei Chen, Xiangyu Hu, Berkay Alp Cakal, Nils Thuerey | [Deep Learning Surrogates for Computational Fluid Dynamics](/papers/8.pdf) |
 | Matthew Painter, Adam Prugel-Bennett, Jonathon Hare | [On the Structure of Cyclic Linear Disentangled Representations](/papers/9.pdf) |
 | Rui Wang, Xiaoqian Wang, David I Inouye | [Shapley Explanation Networks](/papers/10.pdf) |
 | Ričards Marcinkevičs, Julia Vogt | [Interpretable Models for Granger Causality Using Self-explaining Neural Networks](/papers/11.pdf) |
 | Patrick Emami, Pan He, Anand Rangarajan, Sanjay Ranka | [A Symmetric and Object-Centric World Model for Stochastic Environments](/papers/12.pdf) |
 | Benjamin Wild, David M Dormagen, Michael L Smith, Tim Landgraf | [Individuality in the hive - Learning to embed lifetime social behavior of honey bees](/papers/13.pdf) |
-| Jiaxin Zhang, Congjie Wei, Chenglin Wu | Thermodynamic Consistent Neural Networks for Learning Material Interfacial Mechanics |
+| Jiaxin Zhang, Congjie Wei, Chenglin Wu | [Thermodynamic Consistent Neural Networks for Learning Material Interfacial Mechanics](/papers/16.pdf) |
 | Grégoire Mialon, Dexiong Chen, Alexandre d'Aspremont, Julien Mairal | [A Trainable Optimal Transport Embedding for Feature Aggregation](/papers/17.pdf) |
 | Kimberly Stachenfeld, Jonathan Godwin, Peter Battaglia | [Graph Networks with Spectral Message Passing](/papers/19.pdf) |
 | Sanghoon Myung, Hyunjae Jang, Byungseon Choi, Jisu Ryu, Hyuk Kim, Sang Wuk Park, Changwook Jeong, Dae Sin Kim | [A novel approach for semiconductor etching process with inductive biases](/papers/20.pdf) |
@@ -29,7 +29,7 @@ published: false
 | Tatiana Lopez Guevara, Michael Burke, Kartic Subr, Nicholas K Taylor | [IV-Posterior: Inverse Value Estimation forInterpretable Policy Certificates](/papers/25.pdf) |
 | Nitin Kamra, Yan Liu | [Gradient-based Optimization for Multi-resource Spatial Coverage](/papers/26.pdf) |
 | Rui Wang, Danielle Maddix, Christos Faloutsos, Yuyang Wang, Rose Yu | [Learning Dynamical Systems Requires Rethinking Generalization](/papers/27.pdf) |
-| Nima Dehmamy, Robin Walters, Yanchen Liu, Rose Yu | Lie Algebra Convolutional Networks with Automatic Symmetry Extraction |
+| Nima Dehmamy, Robin Walters, Yanchen Liu, Rose Yu | [Lie Algebra Convolutional Networks with Automatic Symmetry Extraction](/papers/28.pdf) |
 | Robin Rombach, Patrick Esser, Bjorn Ommer | [An Image is Worth 16 × 16 Tokens: Visual Priors for Efficient Image Synthesis with Transformers](/papers/29.pdf) |
 | Thao Nguyen, Maithra Raghu, Simon Kornblith | [Uncovering How Neural Network Representations Vary with Width and Depth](/papers/30.pdf) |
 | Mario A Lino, Chris Cantwell, Anil Anthony Bharath, Eduardo Pignatelli, Stathi Fotiadis | [Simulating Surface Wave Dynamics with Convolutional Networks](/papers/31.pdf) |
@@ -40,9 +40,9 @@ published: false
 | Luz M. Blaz, Moises Arizpe | [Modelling Advertising Awareness, an Interpretable and Differentiable Approach](/papers/39.pdf) |
 | Hannes Bergkvist, Peter Exner, Paul Davidsson | [Constraining neural networks output by an interpolating loss function with region priors](/papers/40.pdf) |
 | Ellen Rushe, Brian Mac Namee | [Deep Context-Aware Novelty Detection](/papers/41.pdf) |
-| Ferran Alet, Kenji Kawaguchi, Maria Bauza Villalonga, Nurullah Giray Kuru, Tomas Lozano-Perez, Leslie Kaelbling | Tailoring: encoding inductive biases by optimizing unsupervised objectives at prediction time |
+| Ferran Alet, Kenji Kawaguchi, Maria Bauza Villalonga, Nurullah Giray Kuru, Tomas Lozano-Perez, Leslie Kaelbling | [Tailoring: encoding inductive biases by optimizing unsupervised objectives at prediction time](/papers/42.pdf) |
 | Pranay Pasula | [Complex Skill Acquisition through Simple Skill Imitation Learning](/papers/45.pdf) |
-| Manu Kalia, Steven L. Brunton, Hil G.E. Meijer, Christoph Brune, Nathan Kutz | Deep learning of normal form autoencoders for universal, parameter-dependent dynamics |
+| Manu Kalia, Steven L. Brunton, Hil G.E. Meijer, Christoph Brune, Nathan Kutz | [Deep learning of normal form autoencoders for universal, parameter-dependent dynamics](/papers/46.pdf) |
 |----------------|------------------------------------------------|
 
 </div>
