@@ -11,7 +11,7 @@ menu: ["Workshop","Abstract","Speakers","Key Dates","Call for Papers","Schedule"
 <br>
 Interpretable Inductive Biases<br>and Physically Structured Learning
 </h1>
-<h2 class="h4 my-4">December 11<sup>th</sup>–12<sup>th</sup>, 2020</h2>
+<h2 class="h4 my-4">December 12<sup>th</sup>, 2020</h2>
 </div>
 </div>
 
