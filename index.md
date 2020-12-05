@@ -12,6 +12,7 @@ menu: ["Workshop","Abstract","Speakers","Key Dates","Call for Papers","Schedule"
 Interpretable Inductive Biases<br>and Physically Structured Learning
 </h1>
 <h2 class="h4 my-4">December 12<sup>th</sup>, 2020</h2>
+<h2 class="h4 my-4">Poster deadline: December 6<sup>th</sup>, 2020</h2>
 </div>
 </div>
 
@@ -34,8 +35,8 @@ Interpretable Inductive Biases<br>and Physically Structured Learning
 
 <div class="bg-white">
 <div id="keydates" class="container py-4">
-{% capture keydates %}{% include_relative keydates.md %}{% endcapture %}
-{{ keydates | remove_first: "---" | remove_first: "published: false" | remove_first: "---" | markdownify }}
+{% capture schedule %}{% include_relative schedule.md %}{% endcapture %}
+{{ schedule | remove_first: "---" | remove_first: "published: false" | remove_first: "---" | markdownify }}
 </div>
 </div>
 
