@@ -13,6 +13,7 @@ Interpretable Inductive Biases<br>and Physically Structured Learning
 </h1>
 <h2 class="h4 my-4">December 12<sup>th</sup>, 2020</h2>
 <h2 class="h4 my-4">Poster deadline: December 6<sup>th</sup>, 2020</h2>
+<h2 class="h4 my-4"><a href="https://neurips.cc/virtual/2020/protected/workshop_16120.html">Click here to access the workshop</a></h2>
 </div>
 </div>
 
